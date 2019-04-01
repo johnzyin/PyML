@@ -13,7 +13,7 @@ The file size is about 614M.
 
 Run the downloaded file to install Anaconda3
 
-At the edn of the installation, it will ask you if you want to install Microsoft VSCode (It is optional, if you have enough disk space, install it anyway)
+At the end of the installation, it will ask you if you want to install Microsoft VSCode (It is optional, if you have enough disk space, install it anyway)
 
 
 ## Start Jupyter Notebook
@@ -36,13 +36,16 @@ Choose Run above the line, the output will print the string "Hello World！"
 
 ![Jupyter Hello](images/JupyterHello.png)
 
+The python script has a default name ("Untitled"), to change it to something else, open File and select "Rename". Rename it as "JupyterHello". The file has "ipynb" as its file extention, which means "ipython(interactive python) notebook".
+
 
 ## Register GitHub Account and Install Git on Windows
 
 
 ## Install PyCharm on Windows
 
-Pycharm is an Pyhton IDE (Integrated Development Environment)
+Pycharm is an Pyhton IDE (Integrated Development Environment), VSCode is another IDE.
+
 
 ## Learning Python Basics using Jupyter Notebook
 
