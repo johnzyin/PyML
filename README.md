@@ -34,7 +34,7 @@ Type following in the input line "In []:"
   
 Choose Run above the line, the output will print the string "Hello World！"
 
-![Jupyter Hello](/images/JupyterHello.png)
+![Jupyter Hello](./images/JupyterHello.png)
 
 
 ## Register GitHub Account and Install Git on Windows
