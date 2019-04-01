@@ -39,7 +39,30 @@ Choose Run above the line, the output will print the string "Hello World！"
 The python script has a default name ("Untitled"), to change it to something else, open File and select "Rename". Rename it as "JupyterHello". The file has "ipynb" as its file extention, which means "ipython(interactive python) notebook".
 
 
+## Learning Python Basics using Jupyter Notebook
+
+[Learning Python Basics using Jupyter Notebook](notebooks/pybasics.ipynb)
+
+## Learning Machine Learning Basics using Jupyter Notebook
+
+[Learning Machine Learning Basics using Jupyter Notebook](notebooks/mlbasics.ipynb)
+
 ## Register GitHub Account and Install Git on Windows
+
+### Register GitHub Account
+
+### Install Git on Windows
+
+### Basic Git Command
+git clone 
+git status
+git add
+git rm
+git commit -m "comments"
+git push
+git pull
+git stash
+
 
 
 ## Install PyCharm on Windows
@@ -47,9 +70,7 @@ The python script has a default name ("Untitled"), to change it to something els
 Pycharm is an Pyhton IDE (Integrated Development Environment), VSCode is another IDE.
 
 
-## Learning Python Basics using Jupyter Notebook
 
-## Learning Machine Learning Basics using Jupyter Notebook
 
 
 
