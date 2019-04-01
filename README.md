@@ -64,7 +64,7 @@ can download all files in a repository to ones computer.
 
 download from https://gitforwindows.org/
 
-Depending on what is the latest verison, the file name will look like something as "Git-2.21.0-64-bit.exe". Run the file and intall the program.
+Depending on what is the latest verison, the file name will look like something as "Git-2.21.0-64-bit.exe". Run the file and install the program. During the installation, accept all default settings except the editor choices, choose "Nano" instead of the default "Vim" if you are not famuliar of Vim.
 
 After installation complets, in Windows Start menu, there is a selection called "Git Bash" under Git submenu. Running Git Bash will give one a Unix like bash command window. Within this command window, one can issue git command to perform souce code management functions. 
 
