@@ -59,7 +59,7 @@ The python script has a default name ("Untitled"), to change it to something els
 
 ## Machine Learning Basics
 
-- [Machine Learning: sklearn](notebooks/machineslearning01.ipynb)
+- [Machine Learning: sklearn(scikit-learn)](notebooks/machineslearning01.ipynb)
 - [Machine Learning: tensorflow + keras](notebooks/machineslearning02.ipynb)
 - [Machine Learning: pytorch](notebooks/machineslearning03.ipynb)
 
