@@ -41,11 +41,28 @@ The python script has a default name ("Untitled"), to change it to something els
 
 ## Learning Python Basics using Jupyter Notebook
 
-[Learning Python Basics using Jupyter Notebook](notebooks/pybasics.ipynb)
+- [Python Basics 1](notebooks/pybasics01.ipynb)
+- [Python Basics 2](notebooks/pybasics02.ipynb)
+- [Python Basics 3](notebooks/pybasics03.ipynb)
+- [Python Basics 4](notebooks/pybasics04.ipynb)
+- [Python Basics 5](notebooks/pybasics05.ipynb)
+- [Python Basics 6](notebooks/pybasics06.ipynb)
+- [Python Basics 7](notebooks/pybasics07.ipynb)
 
-## Learning Machine Learning Basics using Jupyter Notebook
 
-[Learning Machine Learning Basics using Jupyter Notebook](notebooks/mlbasics.ipynb)
+## Useful Numerical Tools
+- [numpy](notebooks/numtools01.ipynb)
+- [matplotlib](notebooks/numtools02.ipynb)
+- [pandas](notebooks/numtools03.ipynb)
+- [scipy](notebooks/numtools04.ipynb)
+
+
+## Machine Learning Basics
+
+- [Machine Learning: sklearn](notebooks/machineslearning01.ipynb)
+- [Machine Learning: tensorflow + keras](notebooks/machineslearning03.ipynb)
+- [Machine Learning: pytorch](notebooks/machineslearning03.ipynb)
+
 
 ## Register GitHub Account and Install Git on Windows
 
