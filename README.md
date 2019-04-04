@@ -41,13 +41,13 @@ The python script has a default name ("Untitled"), to change it to something els
 
 ## Learning Python Basics using Jupyter Notebook
 
-- [Python Basics 1](notebooks/pybasics01.ipynb)
-- [Python Basics 2](notebooks/pybasics02.ipynb)
-- [Python Basics 3](notebooks/pybasics03.ipynb)
-- [Python Basics 4](notebooks/pybasics04.ipynb)
-- [Python Basics 5](notebooks/pybasics05.ipynb)
-- [Python Basics 6](notebooks/pybasics06.ipynb)
-- [Python Basics 7](notebooks/pybasics07.ipynb)
+- [Python Basics 1 : Primitive Datatypes and Operators](notebooks/pybasics01.ipynb)
+- [Python Basics 2 : Variables and Collections](notebooks/pybasics02.ipynb)
+- [Python Basics 3 : Control Flow and Iterables](notebooks/pybasics03.ipynb)
+- [Python Basics 4 : Functions](notebooks/pybasics04.ipynb)
+- [Python Basics 5 : Modules](notebooks/pybasics05.ipynb)
+- [Python Basics 6 : Classes](notebooks/pybasics06.ipynb)
+- [Python Basics 7 : Advanced](notebooks/pybasics07.ipynb)
 
 
 ## Useful Numerical Tools
